@@ -1,0 +1,12 @@
+ftfy
+packaging
+regex
+tqdm
+torch==1.7.1
+torchvision
+pandas
+scikit-learn
+numpy==1.26.4
+matplotlib
+nltk
+Unidecode
