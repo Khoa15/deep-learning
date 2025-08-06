@@ -1,0 +1,3 @@
+[submodule "src/demo/rnn_sentiment_analysis"]
+	path = src/demo/rnn_sentiment_analysis
+	url = https://huggingface.co/spaces/nghiendo/rnn_sentiment_analysis
